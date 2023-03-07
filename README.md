@@ -4,10 +4,12 @@ Generation and annotation of datasets of simple shapes
 This code allows to generate images and dataset of simple shapes, by inserting them with random positions and orientations in an empty image, with option to allow overlapping or not.
 Several shapes are possible: basic geometric shapes (rectangle, triangle, ellipse), simple object shapes made from basic shapes (10 classes: house, tree, plane, jet, rocket, boat, submarine, tractor, car, truck), with random parameters, or shapes coming from a given dataset like Sharvit (see output samples).
 
-<img src="https://github.com/RobinDelearde/SimpleShapes/blob/main/samples/SimpleShapes_samples.png" height="60" width="60">
-<img src="https://github.com/RobinDelearde/SimpleShapes/blob/main/samples/4SimpleShapes_samples.png" height="60" width="60">
-<img src="https://github.com/RobinDelearde/SimpleShapes/blob/main/samples/4SharvitShapes_samples.png" height="60" width="60">
-<img src="https://github.com/RobinDelearde/SimpleShapes/blob/main/samples/2SimpleShapes_samples_sorted.png" height="60" width="60">
+<p float="left">
+  <img src="https://github.com/RobinDelearde/SimpleShapes/blob/main/samples/SimpleShapes_samples.png" height="200" width="200" />
+  <img src="https://github.com/RobinDelearde/SimpleShapes/blob/main/samples/4SimpleShapes_samples.png" height="200" width="200" />
+  <img src="https://github.com/RobinDelearde/SimpleShapes/blob/main/samples/4SharvitShapes_samples.png" height="200" width="200" />
+  <img src="https://github.com/RobinDelearde/SimpleShapes/blob/main/samples/2SimpleShapes_samples_sorted.png" height="200" width="200" />
+</p>
 
 This code was used to generate the dataset 2SimpleShapes used in the following papers:
 ```
